@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:15
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:21
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\include\modal_import.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b01fe87bd2_35118825',
+  'unifunc' => 'content_5ccb033598f2d6_23282973',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cb5b01fe87bd2_35118825 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb033598f2d6_23282973 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="module-modal-import" class="modal modal-vcenter fade" role="dialog" data-backdrop="static" data-keyboard="false">
     <div class="modal-dialog">
         <!-- Modal content-->

@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:15
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:21
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\page.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b01f970c35_66018840',
+  'unifunc' => 'content_5ccb03356f2122_27081058',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -24,7 +24,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./include/modal_confirm_prestatrust.tpl' => 1,
   ),
 ),false)) {
-function content_5cb5b01f970c35_66018840 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb03356f2122_27081058 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
   var admin_module_ajax_url_psmbo = '<?php echo $_smarty_tpl->tpl_vars['admin_module_ajax_url_psmbo']->value;?>

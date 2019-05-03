@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:15
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:21
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\include\dropdown_categories.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b01fce0e45_76046603',
+  'unifunc' => 'content_5ccb033589b4c2_79620038',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cb5b01fce0e45_76046603 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb033589b4c2_79620038 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="ps-dropdown dropdown btn-group bordered mb-1">
 	<div id="catDropdown" class="dropdown-label" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 		<span class="js-selected-item selected-item module-category-selector-label">

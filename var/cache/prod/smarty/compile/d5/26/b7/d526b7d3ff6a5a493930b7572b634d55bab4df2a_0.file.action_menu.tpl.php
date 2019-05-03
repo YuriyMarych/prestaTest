@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:15
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:21
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\include\action_menu.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b01fda35a9_44995220',
+  'unifunc' => 'content_5ccb033590bc29_08343095',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cb5b01fda35a9_44995220 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb033590bc29_08343095 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
 <div v-if="module.attributes.url_active == 'buy'" class="form-action-button-container">
     <a class="btn btn-primary btn-primary-reverse btn-block btn-outline-primary light-button module_action_menu_go_to_addons" v-bind:href="module.attributes.url" target="_blank">

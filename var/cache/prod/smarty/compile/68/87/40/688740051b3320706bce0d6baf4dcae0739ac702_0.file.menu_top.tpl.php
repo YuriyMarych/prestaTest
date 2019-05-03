@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:15
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:21
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\include\menu_top.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b01fb8f807_05570423',
+  'unifunc' => 'content_5ccb033584cb26_62879376',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./dropdown_categories.tpl' => 1,
   ),
 ),false)) {
-function content_5cb5b01fb8f807_05570423 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb033584cb26_62879376 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="module-top-menu">
     <div class="row">
         <div class="col-md-8">

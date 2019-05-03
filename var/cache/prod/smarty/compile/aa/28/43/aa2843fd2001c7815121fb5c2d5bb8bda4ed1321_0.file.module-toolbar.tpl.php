@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:16
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:23
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\module-toolbar.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b020417d12_31098084',
+  'unifunc' => 'content_5ccb03372bac67_21750420',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cb5b020417d12_31098084 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb03372bac67_21750420 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="toolbar-icons">
 	<div class="wrapper">
 		<a class="btn btn-primary  pointer" id="page-header-desc-configuration-add_module" href="#" title="" data-toggle="modal" data-placement="bottom" data-original-title="Installer un module" data-target="#module-modal-import">

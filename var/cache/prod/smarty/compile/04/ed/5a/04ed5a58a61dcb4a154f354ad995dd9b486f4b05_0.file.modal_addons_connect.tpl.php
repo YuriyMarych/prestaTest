@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2019-04-16 13:36:16
+/* Smarty version 3.1.33, created on 2019-05-02 17:48:25
   from 'C:\OSPanel\domains\prestaTest\modules\ps_mbo\views\templates\admin\include\modal_addons_connect.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5cb5b0206356e3_49943728',
+  'unifunc' => 'content_5ccb03391fbd47_67775578',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5cb5b0206356e3_49943728 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5ccb03391fbd47_67775578 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
 <?php if ($_smarty_tpl->tpl_vars['addons_connect']->value['connected'] === false) {?>
 	<div id="module-modal-addons-connect" class="modal  modal-vcenter fade" role="dialog">
